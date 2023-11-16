@@ -1,0 +1,50 @@
+.batton {
+    padding: 6px 10px;
+    border: 0;
+    border-radius: 5px;
+}
+
+.batton--theme-blue {
+    color: azure;
+    background-color: blue;
+}    
+
+.batton--theme-light-blue {
+    color: azure;
+    background-color: #a4a6c7;
+}
+
+.batton--theme-red {
+    color: azure;
+    background-color: red;
+}    
+
+.batton--size-small {
+    font-size: 10px;
+}
+
+.batton--size-med {
+    font-size: 14px;
+
+}
+
+.batton--size-large {
+    font-size: 18px;
+
+}
+
+.button--disable {
+    opacity: 0.5;
+}
+
+.price--theme-red {
+    color: red;
+}
+
+.price--theme-green {
+    color: green;
+}
+
+.price--size-small {
+    font-size: 10px;
+}
